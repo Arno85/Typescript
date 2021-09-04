@@ -25,6 +25,11 @@ Run `tsc --init` to initialize a project with Typescript. It will create a *tsco
 
 ## Compiler Options
 
+Docs :
+- [tsconfig file](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+- [Compiler Options](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
+- [VS Code Debugging](https://code.visualstudio.com/docs/typescript/typescript-debugging)
+
 ### target
 
 Type string - Allows to specify in what version of JS we want the code to be compiled: es5, es6, es2016, ...

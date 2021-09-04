@@ -9,6 +9,8 @@ Typescript has the same types as Javascript has built-in:
 - object
 - Symbol
 
+[Offical Types Doc](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+
 We can assign types with colon in Typescript: `let num: number`. When we assign a value to a variable Typescript is capable to determine the type with the type inference: `let num = 1 //num is type number`.
 
 > It's not considerate a good practice to explicitly say the type of a variable **if it's initialized**. Like this `const num: number = 1`. It's redondant!
