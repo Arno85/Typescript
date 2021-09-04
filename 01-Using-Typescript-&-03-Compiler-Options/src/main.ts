@@ -8,4 +8,5 @@ function add(num1: number, num2: number) {
 
 button.addEventListener('click', () => {
     console.log(add(+num1.value, +num2.value));
+    console.log('Add run');
 })

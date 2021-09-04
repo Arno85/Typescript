@@ -6,15 +6,8 @@ Typescript is a superset of Javascript. It will add features on top of it:
 - Interfaces and Generics.
 - Decorators (Meta Programming feature).
 - Configuration Options.
-- Tools to help even in non TS projects./
+- Tools to help even in non TS projects.
 
-## Install
-
-- install [Node JS](https://nodejs.org/en/).
-- install typescript globally `npm install typescript -g`.
-
-## Using Typescript
-
-run `tsc myTSFile.ts`. It will create a JS file named *myTSFile.js*: [Example](./01-Using-Typescript).
+## [Using Typescript & Compiler Options](./01-Using-Typescript-&-03-Compiler-Options)
 
 ## [Types](./02-Types)
